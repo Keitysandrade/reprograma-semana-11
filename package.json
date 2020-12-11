@@ -1,7 +1,7 @@
 {
   "name": "reprograma-projeto-final",
   "version": "1.0.0",
-  "description": "Projeto final do bootcamp da reprograma em Desenvolvimento web em Back-End.",
+  "description": "Reprograma semana 11.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Keitysandrade/reprograma-projeto-final.git"
+    "url": "git+https://github.com/Keitysandrade/reprograma-semana-11.gitl.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Keitysandrade/reprograma-projeto-final/issues"
+    "url": "https://github.com/Keitysandrade/reprograma-semana-11.git/issues"
   },
-  "homepage": "https://github.com/Keitysandrade/reprograma-projeto-final#readme",
+  "homepage": "https://github.com/Keitysandrade/reprograma-semana-11.git#readme",
   "devDependencies": {
     "express": "^4.17.1",
     "nodemon": "^2.0.6"
